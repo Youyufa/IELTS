@@ -21,3 +21,6 @@ https://github.com/EthanLin-TWer/ielts
 
 在线学习工具：
 https://github.com/hefengxian/my-ielts
+
+阅读答案：
+https://ieltsextremes.com/ielts-academic-reading-answers/
